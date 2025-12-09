@@ -30,4 +30,3 @@ Gestion de projet, communication, modélisation UML, analyse fonctionnelle, trav
 ## Colaborateurs
 - BELKACIMI Cirine
 - BOURAKKADI IDRISSI Marwa
-<img src="https://via.placeholder.com/1200x250/ff5733/ffffff?text=Projet+Trice" />
