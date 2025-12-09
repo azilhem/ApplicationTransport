@@ -27,3 +27,6 @@ Réalisation de l’analyse des besoins, modélisation UML, gestion de projet et
 ## Compétences développées :
 Gestion de projet, communication, modélisation UML, analyse fonctionnelle, travail en équipe, organisation.
 
+## Colaborateurs
+- BELKACIMI Cirine
+- BOURAKKADI IDRISSI Marwa
