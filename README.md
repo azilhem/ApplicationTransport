@@ -1,4 +1,4 @@
-# Etude d'une application pourla société TRICE - Modélisation Objet (UML)
+# Etude d'une application pour la société (fictive) TRICE 
 
 ## Résumé du projet :
 
