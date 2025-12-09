@@ -2,10 +2,13 @@
 
 ## Résumé du projet :
 
-Conception complète d’une application de transport pour la société TRICE dans le cadre d’un projet universitaire. Réalisation de l’analyse des besoins, modélisation UML, gestion de projet et création d’une maquette fonctionnelle.
+Conception complète d’une application de transport pour la société TRICE dans le cadre d’un projet universitaire. 
+Réalisation de l’analyse des besoins, modélisation UML, gestion de projet et création d’une maquette fonctionnelle.
 
 ## Technologies & outils :
-UML, LucidChart, Figma
+- UML
+- LucidChart
+- Figma
 
 ## Travail réalisé :
 
