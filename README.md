@@ -1,3 +1,5 @@
+Note obtenue : 20/20
+
 # Étude d'une application pour la société (fictive) de transport - TRICE
 
 ## Résumé du projet 
